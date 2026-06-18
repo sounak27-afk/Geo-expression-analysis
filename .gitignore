@@ -1,0 +1,6 @@
+data/*.rds
+data/*.gz
+data/*.soft*
+*.Rhistory
+.Rproj.user/
+.DS_Store
